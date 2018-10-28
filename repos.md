@@ -1,1 +1,1 @@
-Visit https://opensource.microsoft.com instead.
+Please visit https://opensource.microsoft.com instead.
